@@ -1,0 +1,2446 @@
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 4)		0
+Player		(7, 12)
+AI		(4, 9)		0
+Player		(17, 22)
+AI		(18, 19)	15
+Player		(15, 20)
+AI		(9, 10)		15
+Player		(13, 14)
+AI		(12, 17)	2
+Player		(11, 16)
+AI		(19, 24)	0
+Player		(23, 24)
+Player		(16, 21)
+AI		(1, 6)		15
+Player		(6, 11)
+AI		(10, 15)	2
+Player		(20, 25)
+AI		(12, 13)	2
+Player		(19, 20)
+AI		(24, 25)	27
+AI		(3, 8)		0
+Player		(8, 9)
+Player		(5, 10)
+AI		(4, 5)		0
+AI		(2, 7)		0
+Player		(7, 8)
+Player		(8, 13)
+Player		(9, 14)
+Player		(14, 15)
+Player		(14, 19)
+Player		(13, 18)
+Player		(17, 18)
+Player		(22, 23)
+Player		(6, 7)
+Player		(11, 12)
+Player		(16, 17)
+Player		(21, 22)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(24, 25)
+AI		(18, 23)	0
+Player		(15, 20)
+AI		(3, 4)		0
+Player		(8, 9)
+AI		(4, 9)		0
+Player		(3, 8)
+Player		(14, 19)
+AI		(12, 13)	0
+Player		(7, 8)
+AI		(11, 12)	2
+Player		(5, 10)
+AI		(9, 10)		0
+Player		(1, 2)
+AI		(4, 5)		13
+AI		(17, 22)	0
+Player		(2, 3)
+AI		(2, 7)		15
+AI		(21, 22)	15
+Player		(11, 16)
+AI		(10, 15)	2
+Player		(19, 24)
+AI		(13, 14)	0
+Player		(6, 11)
+AI		(12, 17)	0
+Player		(16, 17)
+Player		(16, 21)
+Player		(23, 24)
+AI		(18, 19)	50
+AI		(13, 18)	20
+AI		(17, 18)	0
+AI		(22, 23)	0
+AI		(19, 20)	0
+Player		(20, 25)
+Player		(14, 15)
+Player		(9, 14)
+Player		(8, 13)
+Player		(7, 12)
+Player		(6, 7)
+Player		(1, 6)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(13, 14)
+AI		(18, 23)	0
+Player		(12, 13)
+AI		(3, 4)		0
+Player		(7, 8)
+AI		(4, 9)		0
+Player		(15, 20)
+AI		(21, 22)	0
+Player		(24, 25)
+AI		(9, 10)		2
+Player		(1, 6)
+AI		(12, 17)	2
+Player		(6, 11)
+AI		(22, 23)	2
+Player		(16, 17)
+AI		(14, 19)	2
+Player		(10, 15)
+AI		(19, 24)	15
+Player		(2, 3)
+AI		(1, 2)		2
+Player		(11, 12)
+AI		(11, 16)	0
+AI		(8, 13)		0
+Player		(7, 12)
+Player		(6, 7)
+Player		(2, 7)
+Player		(4, 5)
+AI		(3, 8)		75
+AI		(5, 10)		75
+AI		(8, 9)		75
+AI		(9, 14)		50
+AI		(14, 15)	20
+AI		(19, 20)	0
+AI		(20, 25)	0
+AI		(18, 19)	0
+Player		(23, 24)
+Player		(13, 18)
+Player		(17, 18)
+Player		(16, 21)
+AI		(17, 22)	15
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(7, 8)
+AI		(18, 23)	0
+Player		(1, 2)
+AI		(3, 4)		0
+Player		(2, 3)
+AI		(4, 9)		0
+Player		(4, 5)
+AI		(10, 15)	15
+Player		(6, 7)
+AI		(8, 13)		15
+Player		(11, 12)
+AI		(19, 20)	30
+Player		(12, 17)
+AI		(13, 14)	2
+Player		(20, 25)
+AI		(17, 22)	0
+Player		(21, 22)
+AI		(23, 24)	2
+Player		(22, 23)
+AI		(17, 18)	20
+AI		(9, 10)		0
+Player		(14, 19)
+AI		(5, 10)		0
+AI		(19, 24)	0
+Player		(16, 17)
+AI		(18, 19)	75
+AI		(24, 25)	75
+AI		(16, 21)	75
+AI		(11, 16)	75
+AI		(13, 18)	50
+AI		(12, 13)	20
+AI		(7, 12)		0
+AI		(6, 11)		0
+AI		(3, 8)		0
+Player		(8, 9)
+Player		(9, 14)
+Player		(14, 15)
+Player		(15, 20)
+Player		(2, 7)
+Player		(1, 6)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 7)
+AI		(3, 4)		0
+Player		(2, 3)
+AI		(6, 11)		15
+Player		(11, 12)
+AI		(4, 9)		30
+Player		(12, 13)
+AI		(14, 19)	30
+Player		(8, 13)
+AI		(9, 10)		0
+Player		(10, 15)
+AI		(19, 24)	2
+Player		(15, 20)
+AI		(17, 22)	0
+Player		(20, 25)
+AI		(12, 17)	27
+Player		(11, 16)
+AI		(16, 17)	32
+AI		(13, 14)	57
+Player		(16, 21)
+AI		(21, 22)	0
+AI		(3, 8)		0
+Player		(1, 6)
+AI		(6, 7)		75
+AI		(8, 9)		75
+AI		(9, 14)		75
+AI		(14, 15)	75
+AI		(19, 20)	50
+AI		(24, 25)	20
+AI		(7, 8)		15
+AI		(7, 12)		0
+AI		(18, 19)	0
+Player		(4, 5)
+AI		(5, 10)		75
+AI		(23, 24)	60
+AI		(13, 18)	45
+AI		(17, 18)	30
+AI		(22, 23)	15
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(1, 6)
+AI		(3, 4)		0
+Player		(4, 9)
+AI		(12, 13)	15
+Player		(9, 14)
+AI		(21, 22)	0
+Player		(16, 17)
+AI		(19, 20)	2
+Player		(4, 5)
+AI		(13, 14)	0
+Player		(14, 15)
+AI		(6, 11)		15
+Player		(11, 12)
+AI		(2, 3)		0
+Player		(7, 8)
+AI		(19, 24)	27
+Player		(13, 18)
+AI		(22, 23)	57
+Player		(20, 25)
+AI		(24, 25)	0
+AI		(9, 10)		0
+Player		(10, 15)
+Player		(5, 10)
+Player		(14, 19)
+AI		(15, 20)	20
+AI		(18, 19)	0
+AI		(23, 24)	0
+AI		(3, 8)		0
+Player		(2, 7)
+Player		(8, 9)
+Player		(8, 13)
+Player		(7, 12)
+Player		(6, 7)
+Player		(17, 18)
+AI		(17, 22)	60
+AI		(12, 17)	45
+AI		(16, 21)	30
+AI		(11, 16)	15
+
+It is a tie
+
+
+Identity	Line		MinMax Value
+
+Player		(5, 10)
+AI		(18, 23)	0
+Player		(4, 5)
+AI		(3, 4)		0
+Player		(2, 3)
+AI		(12, 13)	0
+Player		(1, 2)
+AI		(21, 22)	0
+Player		(1, 6)
+AI		(14, 19)	0
+Player		(6, 11)
+AI		(13, 14)	2
+Player		(11, 16)
+AI		(19, 24)	2
+Player		(10, 15)
+AI		(8, 9)		15
+Player		(1, 2)
+Player		(15, 20)
+AI		(17, 18)	32
+Player		(20, 25)
+AI		(16, 17)	32
+Player		(7, 8)
+AI		(9, 10)		0
+Player		(22, 23)
+AI		(4, 9)		75
+AI		(17, 22)	75
+AI		(3, 8)		50
+AI		(16, 21)	20
+AI		(2, 7)		0
+AI		(6, 7)		0
+AI		(12, 17)	0
+Player		(11, 12)
+Player		(7, 12)
+Player		(8, 13)
+Player		(9, 14)
+Player		(14, 15)
+Player		(19, 20)
+Player		(24, 25)
+Player		(13, 18)
+Player		(18, 19)
+Player		(23, 24)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 4)		0
+Player		(2, 7)
+AI		(13, 14)	15
+Player		(3, 8)
+AI		(7, 8)		15
+AI		(4, 9)		0
+Player		(8, 9)
+Player		(7, 12)
+AI		(19, 24)	15
+Player		(12, 17)
+AI		(14, 15)	2
+Player		(20, 25)
+AI		(17, 22)	0
+Player		(16, 17)
+AI		(9, 10)		15
+Player		(6, 11)
+AI		(15, 20)	32
+Player		(16, 21)
+AI		(21, 22)	15
+AI		(13, 18)	57
+Player		(10, 15)
+AI		(9, 14)		75
+AI		(8, 13)		50
+AI		(12, 13)	20
+AI		(17, 18)	0
+AI		(22, 23)	0
+AI		(11, 16)	0
+Player		(11, 12)
+Player		(6, 7)
+Player		(1, 6)
+Player		(4, 5)
+AI		(5, 10)		0
+AI		(19, 20)	0
+Player		(14, 19)
+Player		(18, 19)
+Player		(23, 24)
+Player		(24, 25)
+
+It is a tie
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(6, 7)
+AI		(3, 4)		0
+Player		(2, 3)
+AI		(4, 9)		0
+Player		(4, 5)
+AI		(12, 13)	15
+Player		(6, 11)
+AI		(14, 19)	15
+Player		(11, 16)
+AI		(13, 14)	2
+Player		(16, 21)
+AI		(19, 24)	2
+Player		(17, 22)
+AI		(9, 10)		0
+Player		(20, 25)
+AI		(5, 10)		15
+AI		(10, 15)	2
+Player		(15, 20)
+AI		(12, 17)	2
+Player		(7, 8)
+AI		(8, 13)		0
+Player		(7, 12)
+Player		(11, 12)
+Player		(16, 17)
+Player		(21, 22)
+Player		(19, 1819)
+Player		(18, 19)
+AI		(23, 24)	50
+AI		(13, 18)	20
+AI		(17, 18)	0
+AI		(22, 23)	0
+AI		(3, 8)		0
+Player		(8, 9)
+Player		(9, 14)
+Player		(14, 15)
+Player		(19, 20)
+Player		(24, 25)
+Player		(2, 7)
+Player		(1, 6)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(8, 9)
+AI		(8, 13)		15
+Player		(12, 13)
+AI		(5, 10)		15
+Player		(12, 17)
+AI		(6, 11)		15
+Player		(16, 17)
+AI		(9, 10)		15
+Player		(10, 15)
+AI		(3, 8)		15
+Player		(15, 20)
+AI		(19, 24)	32
+Player		(19, 20)
+AI		(13, 14)	0
+Player		(9, 14)
+Player		(14, 15)
+Player		(14, 19)
+Player		(16, 21)
+AI		(2, 7)		27
+Player		(22, 23)
+AI		(11, 12)	0
+Player		(3, 4)
+AI		(4, 9)		20
+AI		(4, 5)		0
+AI		(11, 16)	0
+AI		(21, 22)	0
+Player		(17, 22)
+Player		(17, 18)
+Player		(13, 18)
+Player		(18, 19)
+Player		(23, 24)
+Player		(24, 25)
+AI		(20, 25)	0
+AI		(2, 3)		0
+Player		(7, 8)
+Player		(7, 12)
+Player		(6, 7)
+Player		(1, 6)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 8)		15
+Player		(3, 4)
+AI		(12, 13)	15
+Player		(4, 5)
+AI		(14, 19)	15
+Player		(1, 6)
+AI		(21, 22)	15
+Player		(6, 11)
+AI		(9, 10)		15
+Player		(11, 16)
+AI		(19, 24)	32
+Player		(16, 21)
+AI		(8, 13)		0
+Player		(10, 15)
+AI		(13, 14)	15
+Player		(15, 20)
+AI		(22, 23)	32
+Player		(20, 25)
+AI		(12, 17)	45
+Player		(2, 7)
+AI		(6, 7)		75
+AI		(7, 8)		75
+AI		(7, 12)		75
+AI		(11, 12)	75
+AI		(16, 17)	75
+AI		(17, 22)	75
+AI		(17, 18)	50
+AI		(13, 18)	20
+AI		(18, 19)	0
+AI		(23, 24)	0
+AI		(4, 9)		0
+Player		(8, 9)
+Player		(9, 14)
+Player		(14, 15)
+Player		(19, 20)
+Player		(24, 25)
+Player		(5, 10)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(24, 25)
+AI		(3, 4)		0
+Player		(15, 20)
+AI		(4, 9)		0
+Player		(12, 17)
+AI		(16, 17)	15
+Player		(7, 12)
+AI		(18, 19)	15
+Player		(22, 23)
+AI		(2, 7)		13
+Player		(14, 19)
+AI		(9, 10)		15
+Player		(3, 8)
+AI		(8, 9)		15
+AI		(6, 11)		15
+Player		(8, 13)
+AI		(10, 15)	15
+Player		(16, 21)
+AI		(20, 25)	20
+Player		(4, 5)
+AI		(5, 10)		0
+AI		(17, 18)	0
+Player		(17, 22)
+Player		(21, 22)
+Player		(1, 6)
+AI		(6, 7)		20
+AI		(11, 12)	0
+AI		(11, 16)	0
+AI		(19, 24)	0
+Player		(19, 20)
+Player		(23, 24)
+Player		(14, 15)
+Player		(9, 14)
+Player		(13, 14)
+Player		(13, 18)
+Player		(12, 13)
+Player		(7, 8)
+Player		(2, 3)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(18, 19)
+AI		(3, 4)		0
+Player		(14, 19)
+AI		(3, 8)		15
+Player		(14, 15)
+AI		(6, 11)		15
+Player		(10, 15)
+AI		(12, 13)	15
+Player		(9, 10)
+AI		(9, 14)		13
+AI		(16, 17)	2
+Player		(11, 16)
+AI		(19, 24)	0
+Player		(2, 7)
+AI		(23, 24)	15
+AI		(21, 22)	15
+Player		(2, 21)
+Player		(21, 22)
+Player		(20, 25)
+AI		(22, 23)	2
+Player		(8, 13)
+AI		(5, 10)		32
+Player		(15, 20)
+AI		(19, 20)	2
+AI		(24, 25)	27
+AI		(12, 17)	0
+Player		(11, 12)
+Player		(2, 3)
+AI		(7, 8)		50
+AI		(7, 12)		20
+AI		(6, 7)		0
+AI		(1, 6)		0
+AI		(13, 14)	0
+Player		(8, 9)
+Player		(4, 9)
+Player		(4, 5)
+Player		(13, 18)
+Player		(17, 18)
+Player		(17, 22)
+Player		(16, 21)
+
+It is a tie
+
+
+Identity	Line		MinMax Value
+
+Player		(2, 3)
+AI		(2, 7)		15
+Player		(17, 18)
+AI		(3, 4)		15
+Player		(4, 5)
+AI		(13, 14)	15
+Player		(1, 2)
+AI		(21, 22)	15
+Player		(8, 9)
+AI		(14, 19)	15
+Player		(9, 10)
+AI		(19, 24)	15
+Player		(15, 20)
+AI		(12, 17)	45
+Player		(22, 23)
+AI		(6, 11)		45
+Player		(11, 16)
+AI		(8, 13)		0
+Player		(9, 14)
+Player		(20, 25)
+AI		(7, 12)		27
+Player		(23, 24)
+AI		(16, 21)	57
+Player		(1, 2)
+Player		(10, 15)
+AI		(14, 15)	20
+AI		(19, 20)	0
+AI		(24, 25)	0
+AI		(3, 8)		0
+Player		(4, 9)
+Player		(5, 10)
+Player		(7, 8)
+Player		(12, 13)
+Player		(13, 18)
+Player		(18, 19)
+Player		(18, 23)
+Player		(17, 22)
+Player		(16, 17)
+Player		(1, 12)
+Player		(11, 12)
+Player		(6, 7)
+Player		(1, 6)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Identity	Line		MinMax Value
+
+Player		(2, 3)
+AI		(18, 23)	0
+Player		(4, 5)
+AI		(3, 4)		0
+Player		(14, 15)
+AI		(12, 13)	0
+Player		(24, 25)
+AI		(6, 7)		2
+Player		(17, 18)
+AI		(18, 19)	2
+Player		(16, 17)
+AI		(8, 13)		0
+Player		(11, 12)
+AI		(21, 22)	2
+Player		(1, 2)
+AI		(9, 10)		15
+Player		(8, 9)
+AI		(19, 20)	32
+Player		(20, 25)
+AI		(19, 24)	2
+AI		(23, 24)	0
+AI		(13, 14)	0
+Player		(9, 14)
+Player		(10, 15)
+Player		(15, 20)
+AI		(14, 19)	62
+AI		(13, 18)	32
+AI		(12, 17)	2
+AI		(11, 16)	0
+AI		(3, 8)		0
+Player		(4, 9)
+Player		(5, 10)
+Player		(1, 6)
+AI		(2, 7)		50
+AI		(7, 8)		20
+AI		(7, 12)		0
+AI		(6, 11)		0
+AI		(17, 22)	0
+Player		(16, 22)
+Player		(16, 21)
+Player		(22, 23)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(22, 23)
+AI		(18, 23)	0
+Player		(20, 25)
+AI		(3, 4)		0
+Player		(19, 20)
+AI		(4, 9)		0
+Player		(1, 2)
+AI		(10, 15)	15
+Player		(2, 3)
+AI		(12, 13)	15
+Player		(4, 5)
+AI		(13, 14)	2
+Player		(2, 7)
+AI		(11, 12)	2
+Player		(7, 12)
+AI		(17, 22)	0
+Player		(17, 18)
+Player		(11, 16)
+AI		(23, 24)	15
+Player		(16, 21)
+AI		(15, 20)	2
+Player		(8, 13)
+AI		(7, 8)		62
+AI		(3, 8)		32
+AI		(8, 9)		2
+AI		(9, 14)		0
+AI		(14, 19)	0
+Player		(14, 15)
+Player		(9, 10)
+Player		(5, 10)
+Player		(1, 6)
+AI		(6, 7)		0
+AI		(6, 11)		0
+AI		(19, 24)	0
+Player		(16, 17)
+AI		(24, 25)	75
+AI		(12, 17)	60
+AI		(21, 22)	45
+AI		(18, 19)	30
+AI		(13, 18)	15
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(3, 4)
+AI		(3, 8)		15
+Player		(1, 2)
+AI		(19, 24)	15
+Player		(2, 3)
+AI		(18, 23)	15
+Player		(4, 5)
+AI		(12, 13)	15
+Player		(19, 20)
+AI		(14, 19)	15
+Player		(17, 18)
+AI		(6, 11)		15
+Player		(1, 6)
+AI		(9, 10)		15
+Player		(10, 15)
+AI		(11, 16)	30
+Player		(16, 17)
+AI		(8, 13)		0
+Player		(16, 21)
+AI		(13, 14)	45
+Player		(17, 22)
+AI		(21, 22)	2
+AI		(22, 23)	0
+AI		(11, 12)	0
+Player		(12, 17)
+Player		(13, 18)
+Player		(18, 19)
+Player		(23, 24)
+Player		(24, 25)
+AI		(20, 25)	0
+AI		(2, 7)		0
+Player		(6, 7)
+Player		(7, 12)
+Player		(7, 8)
+Player		(5, 10)
+AI		(4, 9)		75
+AI		(8, 9)		60
+AI		(9, 14)		45
+AI		(14, 15)	30
+AI		(15, 20)	15
+
+It is a tie
+
+
+Identity	Line		MinMax Value
+
+Player		(5, 10)
+AI		(18, 23)	0
+Player		(1, 2)
+AI		(3, 4)		0
+Player		(2, 3)
+AI		(12, 13)	0
+Player		(4, 5)
+AI		(21, 22)	0
+Player		(10, 15)
+AI		(14, 19)	0
+Player		(24, 25)
+AI		(11, 12)	2
+Player		(6, 7)
+AI		(8, 13)		0
+Player		(8, 9)
+AI		(22, 23)	15
+Player		(15, 20)
+AI		(18, 19)	15
+Player		(20, 25)
+AI		(11, 16)	2
+Player		(16, 21)
+AI		(9, 10)		0
+Player		(6, 11)
+AI		(4, 9)		75
+AI		(3, 8)		75
+AI		(7, 12)		62
+AI		(7, 8)		32
+AI		(2, 7)		2
+AI		(1, 6)		0
+AI		(12, 17)	0
+Player		(16, 17)
+Player		(17, 22)
+Player		(17, 18)
+Player		(13, 18)
+Player		(13, 14)
+Player		(9, 14)
+Player		(14, 15)
+Player		(19, 20)
+Player		(19, 24)
+Player		(23, 24)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(2, 3)
+AI		(18, 23)	0
+Player		(3, 4)
+AI		(2, 7)		15
+Player		(4, 5)
+AI		(14, 15)	15
+Player		(5, 10)
+AI		(12, 17)	15
+Player		(10, 15)
+AI		(21, 22)	15
+Player		(1, 2)
+AI		(19, 24)	15
+Player		(22, 23)
+AI		(13, 14)	13
+Player		(24, 25)
+AI		(6, 11)		15
+Player		(15, 20)
+AI		(8, 13)		0
+Player		(11, 16)
+AI		(12, 13)	45
+Player		(16, 21)
+AI		(3, 8)		0
+Player		(18, 19)
+AI		(23, 24)	20
+AI		(7, 8)		0
+AI		(7, 12)		0
+AI		(9, 10)		0
+Player		(9, 14)
+Player		(8, 9)
+Player		(4, 9)
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 4)		0
+Player		(4, 5)
+AI		(12, 13)	0
+Player		(5, 10)
+AI		(21, 22)	0
+Player		(10, 15)
+AI		(11, 12)	2
+Player		(15, 20)
+AI		(19, 24)	2
+Player		(20, 25)
+AI		(8, 13)		2
+Player		(16, 21)
+AI		(13, 14)	0
+Player		(11, 16)
+AI		(22, 23)	45
+Player		(6, 11)
+AI		(3, 8)		45
+Player		(1, 6)
+AI		(14, 19)	45
+Player		(2, 7)
+AI		(6, 7)		32
+AI		(7, 12)		2
+AI		(7, 8)		0
+AI		(9, 10)		0
+Player		(4, 9)
+Player		(8, 9)
+Player		(12, 17)
+AI		(16, 17)	75
+AI		(17, 22)	75
+AI		(17, 18)	75
+AI		(9, 14)		75
+AI		(14, 15)	75
+AI		(19, 20)	75
+AI		(24, 25)	60
+AI		(13, 18)	45
+AI		(18, 19)	30
+AI		(23, 24)	15
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(2, 3)
+AI		(18, 23)	0
+Player		(1, 2)
+AI		(3, 4)		0
+Player		(4, 5)
+AI		(12, 13)	0
+Player		(5, 10)
+AI		(21, 22)	0
+Player		(1, 6)
+AI		(14, 19)	0
+Player		(6, 11)
+AI		(13, 14)	2
+Player		(11, 16)
+AI		(19, 24)	2
+Player		(16, 21)
+AI		(9, 10)		0
+Player		(22, 23)
+AI		(4, 9)		15
+AI		(9, 14)		32
+Player		(24, 25)
+AI		(11, 12)	45
+Player		(15, 20)
+AI		(7, 8)		45
+Player		(10, 15)
+AI		(14, 15)	32
+AI		(19, 20)	2
+AI		(20, 25)	0
+AI		(12, 17)	0
+Player		(23, 24)
+AI		(18, 19)	75
+AI		(16, 17)	50
+AI		(17, 22)	20
+AI		(17, 18)	0
+AI		(13, 18)	0
+AI		(3, 8)		0
+Player		(2, 7)
+Player		(6, 7)
+Player		(8, 9)
+Player		(8, 13)
+Player		(7, 12)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 4)		0
+Player		(4, 5)
+AI		(12, 13)	0
+Player		(5, 10)
+AI		(21, 22)	0
+Player		(23, 24)
+AI		(14, 19)	0
+Player		(24, 25)
+AI		(13, 14)	2
+Player		(15, 20)
+AI		(11, 12)	2
+Player		(6, 7)
+AI		(9, 10)		0
+Player		(4, 9)
+Player		(7, 8)
+AI		(10, 15)	15
+Player		(16, 21)
+AI		(12, 17)	15
+Player		(11, 16)
+AI		(16, 17)	45
+AI		(17, 22)	45
+AI		(20, 25)	45
+Player		(18, 19)
+AI		(19, 24)	75
+AI		(19, 20)	75
+AI		(14, 15)	75
+AI		(9, 14)		50
+AI		(13, 18)	20
+AI		(17, 18)	0
+AI		(22, 23)	0
+AI		(3, 8)		0
+Player		(2, 7)
+Player		(8, 9)
+Player		(8, 13)
+Player		(7, 12)
+Player		(1, 6)
+Player		(6, 11)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(24, 25)
+AI		(18, 23)	0
+Player		(23, 24)
+AI		(3, 4)		0
+Player		(22, 23)
+AI		(4, 9)		0
+Player		(21, 22)
+AI		(16, 17)	15
+Player		(16, 21)
+AI		(17, 22)	30
+AI		(17, 18)	15
+AI		(1, 6)		15
+Player		(6, 7)
+AI		(13, 14)	2
+Player		(8, 13)
+AI		(14, 15)	2
+Player		(10, 15)
+AI		(2, 3)		0
+Player		(1, 2)
+AI		(2, 7)		0
+AI		(12, 17)	15
+Player		(12, 13)
+AI		(13, 18)	15
+AI		(19, 20)	27
+Player		(14, 19)
+AI		(15, 20)	62
+AI		(18, 19)	45
+AI		(19, 24)	20
+AI		(20, 25)	0
+AI		(9, 10)		0
+Player		(9, 14)
+Player		(8, 9)
+Player		(3, 8)
+Player		(7, 8)
+Player		(7, 12)
+Player		(4, 5)
+AI		(5, 10)		0
+AI		(11, 12)	0
+Player		(6, 11)
+Player		(11, 16)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(23, 24)
+AI		(18, 23)	0
+Player		(24, 25)
+AI		(3, 4)		0
+Player		(20, 25)
+AI		(4, 9)		0
+Player		(15, 20)
+AI		(16, 17)	15
+Player		(10, 15)
+AI		(14, 19)	15
+Player		(4, 5)
+AI		(1, 2)		15
+Player		(2, 3)
+AI		(12, 13)	13
+Player		(1, 6)
+AI		(13, 14)	2
+Player		(6, 11)
+AI		(22, 23)	15
+Player		(21, 22)
+AI		(12, 17)	2
+Player		(16, 21)
+AI		(17, 22)	75
+AI		(17, 18)	75
+AI		(13, 18)	75
+AI		(18, 19)	62
+AI		(19, 24)	32
+AI		(19, 20)	15
+AI		(14, 15)	45
+AI		(8, 13)		2
+Player		(11, 16)
+AI		(11, 12)	0
+AI		(3, 8)		0
+Player		(8, 9)
+Player		(9, 14)
+Player		(9, 10)
+Player		(5, 10)
+Player		(2, 7)
+AI		(6, 7)		45
+AI		(7, 12)		30
+AI		(7, 8)		15
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(4, 5)
+AI		(18, 23)	0
+Player		(6, 7)
+AI		(3, 4)		0
+Player		(2, 3)
+AI		(12, 13)	0
+Player		(1, 2)
+AI		(21, 22)	0
+Player		(3, 8)
+AI		(10, 15)	15
+Player		(15, 20)
+AI		(19, 24)	15
+Player		(24, 25)
+AI		(13, 14)	2
+Player		(17, 18)
+AI		(11, 12)	0
+Player		(11, 16)
+AI		(8, 13)		15
+Player		(16, 21)
+AI		(9, 10)		45
+Player		(18, 19)
+AI		(23, 24)	0
+AI		(19, 20)	0
+Player		(20, 25)
+Player		(1, 6)
+AI		(2, 7)		50
+AI		(7, 8)		20
+AI		(7, 12)		0
+AI		(6, 11)		0
+AI		(12, 17)	0
+Player		(13, 18)
+Player		(14, 19)
+Player		(14, 15)
+Player		(16, 17)
+Player		(17, 22)
+Player		(22, 23)
+Player		(9, 14)
+Player		(8, 9)
+Player		(4, 9)
+Player		(5, 10)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 4)		0
+Player		(4, 5)
+AI		(12, 13)	0
+Player		(6, 7)
+AI		(21, 22)	0
+Player		(7, 8)
+AI		(14, 15)	2
+Player		(8, 9)
+AI		(19, 24)	0
+Player		(9, 10)
+AI		(13, 14)	15
+Player		(11, 12)
+AI		(12, 17)	2
+Player		(19, 20)
+AI		(22, 23)	27
+Player		(16, 21)
+AI		(14, 19)	0
+Player		(15, 20)
+Player		(24, 25)
+AI		(20, 25)	0
+AI		(10, 15)	0
+Player		(9, 14)
+Player		(8, 13)
+Player		(7, 12)
+Player		(6, 11)
+Player		(23, 24)
+AI		(18, 19)	75
+AI		(13, 18)	75
+AI		(17, 18)	50
+AI		(17, 22)	20
+AI		(16, 17)	0
+AI		(11, 16)	0
+AI		(3, 8)		0
+Player		(1, 6)
+AI		(4, 9)		45
+AI		(5, 10)		30
+AI		(2, 7)		15
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(3, 4)
+AI		(18, 23)	0
+Player		(4, 5)
+AI		(16, 17)	0
+Player		(9, 10)
+AI		(12, 13)	0
+Player		(8, 9)
+AI		(14, 19)	0
+Player		(7, 8)
+AI		(6, 7)		2
+Player		(1, 2)
+AI		(19, 24)	0
+Player		(2, 3)
+AI		(21, 22)	2
+Player		(11, 12)
+AI		(10, 15)	2
+Player		(13, 14)
+AI		(15, 20)	27
+Player		(15, 20)
+Player		(22, 23)
+AI		(24, 25)	20
+Player		(16, 21)
+AI		(17, 22)	0
+AI		(17, 18)	0
+AI		(3, 8)		0
+Player		(4, 9)
+Player		(5, 10)
+Player		(2, 7)
+Player		(1, 6)
+Player		(20, 25)
+AI		(19, 20)	75
+AI		(14, 15)	75
+AI		(9, 14)		50
+AI		(8, 13)		20
+AI		(7, 12)		0
+AI		(6, 11)		0
+AI		(12, 17)	0
+Player		(11, 16)
+Player		(13, 18)
+Player		(18, 19)
+Player		(23, 24)
+
+It is a tie
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 4)		0
+Player		(1, 6)
+AI		(4, 9)		0
+Player		(22, 23)
+AI		(12, 13)	15
+Player		(23, 24)
+AI		(14, 19)	15
+Player		(19, 20)
+AI		(11, 12)	15
+Player		(21, 22)
+AI		(9, 10)		2
+Player		(16, 17)
+AI		(8, 13)		0
+Player		(7, 8)
+AI		(7, 12)		45
+AI		(13, 14)	32
+Player		(5, 10)
+AI		(4, 5)		0
+AI		(10, 15)	32
+Player		(24, 25)
+AI		(12, 17)	0
+Player		(11, 16)
+Player		(17, 22)
+AI		(17, 18)	75
+AI		(16, 21)	75
+AI		(13, 18)	50
+AI		(18, 19)	20
+AI		(19, 24)	0
+AI		(20, 25)	0
+AI		(3, 8)		0
+Player		(8, 9)
+Player		(2, 7)
+Player		(6, 7)
+Player		(6, 11)
+Player		(9, 14)
+Player		(14, 15)
+Player		(15, 20)
+
+It is a tie
+
+
+Identity	Line		MinMax Value
+
+Player		(2, 3)
+AI		(3, 8)		15
+Player		(4, 5)
+AI		(21, 22)	15
+Player		(21, 22)
+Player		(16, 21)
+AI		(1, 6)		15
+Player		(17, 18)
+AI		(8, 9)		15
+Player		(24, 25)
+AI		(14, 19)	15
+Player		(19, 20)
+AI		(9, 10)		15
+Player		(3, 4)
+AI		(4, 9)		30
+AI		(5, 10)		0
+AI		(12, 17)	15
+Player		(1, 2)
+AI		(6, 11)		30
+Player		(11, 16)
+AI		(18, 23)	32
+Player		(23, 24)
+AI		(8, 13)		0
+Player		(10, 15)
+AI		(7, 12)		45
+Player		(2, 7)
+AI		(6, 7)		75
+AI		(11, 12)	75
+AI		(16, 17)	75
+AI		(17, 22)	75
+AI		(7, 8)		50
+AI		(12, 13)	20
+AI		(22, 23)	0
+AI		(13, 18)	0
+AI		(19, 24)	0
+Player		(20, 25)
+Player		(18, 19)
+Player		(13, 14)
+Player		(9, 14)
+Player		(14, 15)
+Player		(15, 20)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(2, 3)
+AI		(18, 23)	0
+Player		(6, 7)
+AI		(3, 4)		0
+Player		(7, 8)
+AI		(4, 9)		15
+Player		(1, 2)
+AI		(17, 18)	45
+Player		(4, 5)
+AI		(14, 15)	15
+Player		(10, 15)
+AI		(13, 14)	2
+Player		(19, 20)
+AI		(11, 12)	2
+Player		(24, 25)
+AI		(17, 22)	0
+Player		(22, 23)
+Player		(12, 17)
+AI		(21, 22)	15
+Player		(12, 13)
+AI		(13, 18)	0
+AI		(23, 24)	45
+Player		(5, 10)
+AI		(9, 10)		0
+AI		(9, 14)		0
+AI		(19, 24)	0
+Player		(20, 25)
+Player		(19, 28)
+Player		(18, 19)
+Player		(14, 19)
+Player		(15, 20)
+Player		(16, 17)
+AI		(16, 21)	0
+AI		(11, 16)	0
+AI		(3, 8)		0
+Player		(2, 7)
+Player		(1, 6)
+Player		(8, 9)
+Player		(8, 13)
+Player		(7, 12)
+Player		(6, 11)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 4)		0
+Player		(4, 5)
+AI		(12, 13)	0
+Player		(4, 9)
+AI		(6, 7)		15
+Player		(3, 8)
+AI		(8, 9)		15
+AI		(21, 22)	0
+Player		(14, 15)
+AI		(19, 24)	0
+Player		(11, 16)
+AI		(13, 14)	0
+Player		(16, 17)
+AI		(22, 23)	2
+Player		(20, 25)
+AI		(10, 15)	32
+Player		(15, 20)
+AI		(6, 11)		32
+Player		(17, 18)
+AI		(17, 22)	2
+AI		(16, 21)	0
+AI		(18, 19)	0
+Player		(1, 6)
+AI		(23, 24)	20
+AI		(2, 7)		0
+AI		(7, 8)		0
+AI		(9, 10)		0
+Player		(5, 10)
+Player		(9, 14)
+Player		(8, 13)
+Player		(7, 12)
+Player		(11, 12)
+Player		(12, 17)
+Player		(13, 18)
+Player		(14, 19)
+Player		(19, 20)
+Player		(24, 25)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 4)		0
+Player		(4, 5)
+AI		(12, 13)	0
+Player		(5, 10)
+AI		(21, 22)	0
+Player		(10, 15)
+AI		(14, 19)	0
+Player		(15, 20)
+AI		(19, 24)	2
+Player		(24, 25)
+AI		(13, 14)	0
+Player		(22, 23)
+AI		(11, 16)	2
+Player		(16, 21)
+AI		(11, 12)	0
+Player		(6, 11)
+AI		(3, 8)		32
+Player		(1, 6)
+AI		(8, 13)		45
+Player		(2, 7)
+AI		(6, 7)		32
+AI		(7, 12)		2
+AI		(7, 8)		0
+AI		(9, 10)		0
+Player		(4, 9)
+Player		(8, 9)
+Player		(9, 14)
+Player		(14, 15)
+Player		(19, 20)
+Player		(20, 25)
+Player		(17, 18)
+AI		(17, 22)	75
+AI		(16, 17)	75
+AI		(12, 17)	60
+AI		(13, 18)	45
+AI		(18, 19)	30
+AI		(23, 24)	15
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(2, 3)
+AI		(2, 7)		15
+Player		(24, 25)
+AI		(17, 18)	15
+Player		(20, 25)
+AI		(16, 17)	15
+Player		(23, 24)
+AI		(14, 19)	15
+Player		(16, 21)
+AI		(4, 9)		15
+Player		(11, 16)
+AI		(9, 10)		15
+Player		(6, 11)
+AI		(13, 14)	15
+Player		(1, 6)
+AI		(8, 13)		0
+Player		(10, 15)
+AI		(18, 23)	2
+Player		(15, 20)
+AI		(3, 4)		2
+Player		(12, 13)
+AI		(11, 12)	0
+Player		(22, 23)
+AI		(17, 22)	75
+AI		(12, 17)	75
+AI		(21, 22)	75
+AI		(13, 18)	75
+AI		(18, 19)	75
+AI		(19, 24)	75
+AI		(19, 20)	75
+AI		(14, 15)	75
+AI		(9, 14)		75
+AI		(8, 9)		75
+AI		(3, 8)		75
+AI		(7, 8)		50
+AI		(7, 12)		20
+AI		(6, 7)		5
+AI		(1, 2)		0
+AI		(4, 5)		0
+Player		(5, 10)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(23, 24)
+AI		(3, 4)		0
+Player		(24, 25)
+AI		(4, 9)		0
+Player		(22, 23)
+AI		(12, 13)	15
+Player		(21, 22)
+AI		(10, 15)	15
+Player		(16, 21)
+AI		(14, 19)	15
+Player		(11, 16)
+AI		(2, 7)		13
+Player		(6, 11)
+AI		(8, 13)		0
+Player		(2, 3)
+AI		(5, 10)		15
+Player		(4, 5)
+AI		(9, 10)		0
+AI		(19, 20)	32
+Player		(1, 6)
+AI		(6, 7)		45
+AI		(13, 14)	20
+Player		(17, 18)
+AI		(17, 22)	0
+AI		(16, 17)	0
+AI		(19, 24)	0
+Player		(20, 25)
+Player		(28, 29)
+Player		(18, 19)
+Player		(13, 18)
+Player		(12, 17)
+Player		(11, 12)
+Player		(7, 12)
+Player		(7, 8)
+Player		(3, 8)
+Player		(8, 9)
+Player		(9, 14)
+Player		(14, 15)
+Player		(15, 20)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(22, 23)
+AI		(18, 23)	0
+Player		(21, 22)
+AI		(3, 4)		0
+Player		(16, 21)
+AI		(4, 9)		0
+Player		(11, 16)
+AI		(1, 6)		15
+Player		(6, 11)
+AI		(19, 24)	15
+Player		(24, 25)
+AI		(12, 13)	15
+Player		(1, 2)
+AI		(9, 10)		2
+Player		(2, 3)
+AI		(13, 14)	15
+Player		(7, 8)
+AI		(19, 20)	0
+Player		(12, 17)
+AI		(20, 25)	0
+AI		(15, 20)	45
+Player		(5, 14)
+Player		(14, 15)
+AI		(14, 19)	0
+AI		(11, 12)	0
+Player		(16, 17)
+Player		(17, 22)
+Player		(17, 18)
+Player		(13, 18)
+Player		(18, 19)
+Player		(23, 24)
+Player		(4, 5)
+AI		(5, 10)		0
+AI		(8, 13)		0
+Player		(7, 12)
+Player		(6, 7)
+Player		(2, 7)
+Player		(3, 8)
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 8)		15
+Player		(3, 4)
+AI		(21, 22)	15
+Player		(4, 5)
+AI		(9, 14)		15
+Player		(22, 23)
+AI		(14, 19)	15
+Player		(23, 24)
+AI		(6, 11)		15
+Player		(24, 25)
+AI		(12, 17)	15
+Player		(8, 9)
+AI		(4, 9)		0
+AI		(8, 13)		0
+Player		(13, 14)
+Player		(7, 8)
+AI		(2, 7)		2
+AI		(10, 15)	15
+Player		(6, 7)
+AI		(1, 6)		2
+AI		(11, 16)	15
+Player		(16, 21)
+AI		(19, 20)	45
+Player		(16, 17)
+AI		(11, 12)	75
+AI		(17, 22)	75
+AI		(17, 18)	75
+AI		(7, 12)		75
+AI		(12, 13)	75
+AI		(13, 18)	50
+AI		(18, 19)	20
+AI		(19, 24)	0
+AI		(20, 25)	0
+AI		(9, 10)		0
+Player		(14, 15)
+Player		(5, 10)
+Player		(15, 20)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(24, 25)
+AI		(3, 4)		0
+Player		(5, 10)
+AI		(12, 13)	0
+Player		(10, 15)
+AI		(21, 22)	0
+Player		(19, 20)
+AI		(13, 14)	2
+Player		(16, 17)
+AI		(3, 8)		2
+Player		(11, 12)
+AI		(22, 23)	15
+Player		(6, 7)
+AI		(9, 14)		15
+Player		(4, 5)
+AI		(23, 24)	32
+Player		(2, 3)
+AI		(15, 20)	32
+Player		(1, 6)
+AI		(2, 7)		2
+AI		(7, 8)		0
+AI		(13, 18)	57
+Player		(19, 24)
+AI		(20, 25)	75
+AI		(18, 19)	75
+AI		(14, 19)	75
+AI		(14, 15)	75
+AI		(9, 10)		75
+AI		(4, 9)		75
+AI		(8, 9)		50
+AI		(8, 13)		20
+AI		(7, 12)		0
+AI		(6, 11)		0
+AI		(12, 17)	0
+Player		(11, 16)
+Player		(17, 18)
+Player		(17, 22)
+Player		(16, 21)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(3, 4)
+AI		(3, 8)		15
+Player		(23, 24)
+AI		(17, 18)	15
+Player		(22, 23)
+AI		(10, 15)	15
+Player		(16, 17)
+AI		(4, 5)		15
+Player		(6, 7)
+AI		(19, 24)	2
+Player		(8, 9)
+AI		(4, 9)		13
+AI		(14, 19)	2
+Player		(4, 13)
+Player		(13, 14)
+AI		(8, 13)		0
+Player		(9, 14)
+Player		(1, 2)
+AI		(12, 17)	2
+Player		(6, 11)
+AI		(19, 20)	27
+Player		(21, 22)
+AI		(2, 3)		20
+Player		(7, 8)
+AI		(2, 7)		0
+AI		(1, 6)		0
+AI		(9, 10)		0
+Player		(5, 10)
+Player		(14, 15)
+Player		(15, 20)
+Player		(24, 25)
+AI		(20, 25)	0
+AI		(18, 23)	0
+Player		(18, 19)
+Player		(13, 18)
+Player		(12, 13)
+Player		(7, 12)
+Player		(11, 12)
+Player		(11, 16)
+Player		(17, 22)
+Player		(16, 21)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(2, 3)
+AI		(18, 23)	0
+Player		(8, 9)
+AI		(9, 14)		15
+Player		(9, 10)
+AI		(12, 13)	15
+Player		(11, 12)
+AI		(19, 24)	15
+Player		(1, 2)
+AI		(21, 22)	13
+Player		(1, 6)
+AI		(19, 20)	15
+Player		(4, 5)
+AI		(13, 14)	0
+Player		(3, 4)
+AI		(8, 13)		15
+AI		(6, 11)		2
+Player		(22, 23)
+AI		(11, 16)	15
+Player		(16, 21)
+AI		(15, 20)	45
+Player		(17, 18)
+AI		(17, 22)	62
+AI		(16, 17)	32
+AI		(12, 17)	2
+AI		(13, 18)	0
+AI		(3, 8)		0
+Player		(4, 9)
+Player		(5, 10)
+Player		(2, 7)
+AI		(6, 7)		20
+AI		(7, 8)		15
+AI		(7, 12)		0
+AI		(10, 15)	0
+Player		(14, 15)
+Player		(18, 19)
+AI		(14, 19)	5
+AI		(23, 24)	0
+AI		(24, 25)	0
+Player		(20, 25)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(3, 4)
+AI		(18, 23)	0
+Player		(6, 7)
+AI		(4, 9)		0
+Player		(9, 10)
+AI		(2, 7)		15
+Player		(10, 15)
+AI		(11, 16)	15
+Player		(24, 25)
+AI		(13, 14)	2
+Player		(22, 23)
+AI		(12, 17)	2
+Player		(2, 3)
+AI		(21, 22)	30
+Player		(8, 13)
+AI		(19, 20)	0
+Player		(12, 13)
+AI		(6, 11)		15
+Player		(15, 20)
+AI		(16, 21)	45
+Player		(18, 19)
+AI		(5, 10)		0
+Player		(23, 24)
+AI		(19, 24)	20
+AI		(4, 5)		0
+AI		(20, 25)	0
+AI		(3, 8)		0
+Player		(8, 9)
+Player		(7, 8)
+Player		(7, 12)
+Player		(11, 12)
+Player		(16, 17)
+Player		(17, 22)
+Player		(17, 18)
+Player		(13, 18)
+Player		(14, 19)
+Player		(14, 15)
+Player		(9, 14)
+Player		(1, 2)
+AI		(1, 6)		15
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(24, 25)
+AI		(3, 4)		0
+Player		(23, 24)
+AI		(3, 8)		15
+Player		(21, 22)
+AI		(15, 20)	15
+Player		(2, 3)
+AI		(12, 13)	15
+Player		(1, 6)
+AI		(14, 19)	15
+Player		(4, 5)
+AI		(13, 14)	2
+Player		(9, 10)
+AI		(12, 17)	2
+Player		(10, 15)
+AI		(11, 12)	0
+Player		(5, 10)
+AI		(4, 9)		32
+AI		(8, 9)		0
+AI		(6, 11)		2
+Player		(16, 21)
+AI		(20, 25)	45
+Player		(22, 23)
+AI		(8, 13)		0
+Player		(9, 14)
+Player		(14, 15)
+Player		(19, 20)
+Player		(19, 24)
+Player		(18, 19)
+Player		(13, 18)
+Player		(17, 18)
+Player		(17, 22)
+Player		(16, 17)
+Player		(11, 16)
+Player		(2, 7)
+AI		(6, 7)		45
+AI		(7, 12)		30
+AI		(7, 8)		15
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(3, 4)
+AI		(18, 23)	0
+Player		(20, 25)
+AI		(4, 9)		0
+Player		(19, 20)
+AI		(16, 17)	15
+Player		(4, 5)
+AI		(6, 11)		15
+Player		(1, 2)
+AI		(13, 14)	2
+Player		(1, 6)
+AI		(10, 15)	2
+Player		(11, 16)
+AI		(12, 13)	15
+Player		(16, 21)
+AI		(2, 3)		0
+Player		(21, 22)
+AI		(17, 22)	2
+AI		(14, 19)	15
+Player		(7, 8)
+AI		(23, 24)	2
+Player		(8, 9)
+AI		(3, 8)		32
+AI		(2, 7)		15
+AI		(6, 7)		15
+AI		(9, 10)		0
+Player		(5, 10)
+Player		(22, 23)
+AI		(17, 18)	0
+AI		(19, 24)	0
+Player		(18, 19)
+Player		(24, 25)
+Player		(13, 18)
+Player		(12, 17)
+Player		(11, 12)
+Player		(7, 12)
+Player		(8, 13)
+Player		(9, 14)
+Player		(14, 15)
+Player		(15, 20)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(3, 4)
+AI		(4, 9)		0
+Player		(2, 3)
+AI		(17, 18)	15
+Player		(22, 23)
+AI		(17, 22)	0
+AI		(12, 13)	15
+Player		(1, 22)
+Player		(21, 22)
+AI		(14, 19)	15
+Player		(16, 17)
+AI		(16, 21)	30
+AI		(9, 10)		15
+Player		(6, 7)
+AI		(19, 24)	15
+Player		(7, 8)
+AI		(8, 13)		0
+Player		(7, 12)
+Player		(11, 16)
+AI		(19, 20)	27
+Player		(1, 101)
+Player		(10, 15)
+AI		(13, 14)	57
+Player		(4, 5)
+AI		(5, 10)		0
+AI		(3, 8)		0
+Player		(8, 9)
+Player		(2, 7)
+Player		(1, 6)
+Player		(6, 11)
+AI		(11, 12)	75
+AI		(12, 17)	75
+AI		(9, 14)		75
+AI		(14, 15)	75
+AI		(15, 20)	50
+AI		(13, 18)	20
+AI		(18, 19)	5
+AI		(23, 24)	0
+AI		(24, 25)	0
+Player		(20, 25)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(9, 10)
+AI		(18, 23)	0
+Player		(24, 25)
+AI		(3, 4)		0
+Player		(1, 2)
+AI		(12, 13)	0
+Player		(2, 3)
+AI		(16, 17)	2
+Player		(1, 6)
+AI		(6, 11)		2
+Player		(11, 16)
+AI		(13, 14)	2
+Player		(4, 5)
+AI		(19, 20)	0
+Player		(14, 15)
+AI		(21, 22)	2
+Player		(17, 18)
+AI		(3, 8)		15
+Player		(18, 19)
+AI		(8, 13)		45
+Player		(23, 24)
+AI		(19, 24)	2
+AI		(20, 25)	0
+AI		(11, 12)	0
+Player		(22, 23)
+AI		(17, 22)	75
+AI		(12, 17)	75
+AI		(16, 21)	50
+AI		(13, 18)	20
+AI		(14, 19)	0
+AI		(15, 20)	0
+AI		(10, 15)	0
+Player		(9, 14)
+Player		(8, 9)
+Player		(4, 9)
+Player		(5, 10)
+Player		(2, 7)
+AI		(6, 7)		45
+AI		(7, 12)		30
+AI		(7, 8)		15
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(4, 5)
+AI		(18, 23)	0
+Player		(3, 4)
+AI		(16, 17)	0
+Player		(2, 3)
+AI		(12, 13)	0
+Player		(1, 2)
+AI		(14, 15)	2
+Player		(1, 6)
+AI		(19, 24)	2
+Player		(6, 11)
+AI		(8, 13)		2
+Player		(11, 16)
+AI		(13, 14)	0
+Player		(16, 21)
+AI		(4, 9)		2
+Player		(7, 8)
+AI		(7, 12)		2
+AI		(10, 15)	2
+Player		(20, 25)
+AI		(13, 18)	27
+Player		(15, 20)
+AI		(22, 23)	57
+Player		(5, 10)
+AI		(9, 10)		75
+AI		(9, 14)		75
+AI		(8, 9)		75
+AI		(3, 8)		75
+AI		(2, 7)		75
+AI		(6, 7)		75
+AI		(11, 12)	75
+AI		(12, 17)	50
+AI		(17, 18)	20
+AI		(17, 22)	0
+AI		(21, 22)	0
+AI		(19, 20)	0
+Player		(14, 19)
+Player		(18, 19)
+Player		(23, 24)
+Player		(24, 25)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(24, 25)
+AI		(18, 23)	0
+Player		(23, 24)
+AI		(3, 4)		0
+Player		(1, 2)
+AI		(4, 9)		0
+Player		(2, 3)
+AI		(17, 18)	15
+Player		(4, 5)
+AI		(21, 22)	15
+Player		(6, 7)
+AI		(12, 13)	15
+Player		(6, 11)
+AI		(13, 14)	2
+Player		(11, 16)
+AI		(15, 20)	15
+Player		(20, 25)
+AI		(9, 10)		0
+Player		(10, 15)
+AI		(5, 10)		2
+AI		(8, 13)		15
+Player		(16, 21)
+AI		(14, 19)	32
+Player		(1, 6)
+AI		(2, 7)		0
+AI		(11, 12)	0
+Player		(16, 17)
+AI		(17, 22)	75
+AI		(12, 17)	75
+AI		(22, 23)	75
+AI		(7, 12)		75
+AI		(7, 8)		75
+AI		(3, 8)		75
+AI		(8, 9)		75
+AI		(9, 14)		75
+AI		(14, 15)	75
+AI		(19, 20)	60
+AI		(19, 24)	45
+AI		(18, 19)	30
+AI		(13, 18)	15
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(22, 23)
+AI		(3, 4)		0
+Player		(13, 14)
+AI		(4, 9)		0
+Player		(24, 25)
+AI		(12, 13)	0
+Player		(2, 3)
+AI		(11, 12)	2
+Player		(4, 5)
+AI		(14, 15)	2
+Player		(1, 6)
+AI		(17, 22)	0
+Player		(6, 11)
+AI		(17, 18)	15
+AI		(14, 19)	2
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 4)		0
+Player		(4, 5)
+AI		(12, 13)	0
+Player		(5, 10)
+AI		(21, 22)	0
+Player		(1, 6)
+AI		(14, 19)	0
+Player		(6, 11)
+AI		(13, 14)	2
+Player		(24, 25)
+AI		(10, 15)	2
+Player		(20, 25)
+AI		(11, 12)	0
+Player		(15, 20)
+AI		(22, 23)	2
+Player		(23, 24)
+AI		(3, 8)		32
+Player		(16, 17)
+AI		(8, 13)		45
+Player		(7, 8)
+AI		(7, 12)		32
+AI		(6, 7)		2
+AI		(2, 7)		0
+AI		(9, 10)		0
+Player		(4, 9)
+Player		(8, 9)
+Player		(9, 14)
+Player		(14, 15)
+Player		(19, 20)
+Player		(19, 24)
+Player		(18, 19)
+Player		(13, 18)
+Player		(17, 18)
+AI		(17, 22)	60
+AI		(12, 17)	45
+AI		(16, 21)	30
+AI		(11, 16)	15
+
+It is a tie
+
+
+Identity	Line		MinMax Value
+
+Player		(3, 4)
+AI		(4, 9)		15
+Player		(1, 2)
+AI		(23, 24)	15
+Player		(2, 3)
+AI		(24, 25)	15
+Player		(4, 5)
+AI		(14, 19)	15
+Player		(8, 9)
+AI		(3, 8)		30
+AI		(9, 14)		15
+Player		(7, 8)
+AI		(2, 7)		15
+AI		(12, 17)	2
+Player		(6, 7)
+AI		(1, 6)		15
+AI		(18, 23)	2
+Player		(21, 22)
+AI		(12, 13)	2
+Player		(16, 21)
+AI		(10, 15)	32
+Player		(11, 16)
+AI		(15, 20)	15
+Player		(6, 11)
+AI		(20, 25)	45
+Player		(22, 23)
+AI		(13, 14)	0
+Player		(8, 13)
+Player		(7, 12)
+Player		(11, 12)
+Player		(16, 17)
+Player		(17, 22)
+Player		(17, 18)
+Player		(13, 18)
+Player		(18, 19)
+Player		(19, 21)
+Player		(18, 24)
+Player		(19, 24)
+Player		(19, 20)
+Player		(14, 15)
+Player		(10, 91)
+Player		(9, 10)
+Player		(5, 10)
+
+Player Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 4)		0
+Player		(4, 5)
+AI		(12, 13)	0
+Player		(1, 6)
+AI		(21, 22)	0
+Player		(6, 11)
+AI		(14, 15)	2
+Player		(11, 16)
+AI		(13, 14)	2
+Player		(16, 21)
+AI		(19, 24)	0
+Player		(22, 23)
+AI		(5, 10)		15
+Player		(24, 25)
+AI		(8, 9)		15
+Player		(15, 20)
+AI		(10, 15)	32
+Player		(12, 17)
+AI		(7, 12)		45
+Player		(18, 19)
+AI		(23, 24)	0
+AI		(3, 8)		0
+Player		(4, 9)
+Player		(9, 10)
+Player		(9, 14)
+Player		(8, 13)
+Player		(7, 8)
+Player		(2, 7)
+Player		(6, 7)
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 4)		0
+Player		(4, 5)
+AI		(12, 13)	0
+Player		(1, 6)
+AI		(21, 22)	0
+Player		(6, 11)
+AI		(14, 15)	2
+Player		(11, 16)
+AI		(19, 24)	2
+Player		(16, 21)
+AI		(8, 13)		15
+Player		(22, 23)
+AI		(13, 14)	0
+Player		(24, 25)
+AI		(4, 9)		15
+Player		(15, 20)
+AI		(10, 15)	45
+Player		(7, 8)
+AI		(7, 12)		0
+AI		(12, 17)	20
+Player		(3, 8)
+AI		(8, 9)		75
+AI		(9, 14)		75
+AI		(9, 10)		75
+AI		(5, 10)		75
+AI		(2, 7)		75
+AI		(6, 7)		75
+AI		(11, 12)	75
+AI		(16, 17)	50
+AI		(17, 22)	20
+AI		(17, 18)	0
+AI		(13, 18)	0
+AI		(19, 20)	0
+Player		(14, 19)
+Player		(18, 19)
+Player		(23, 24)
+Player		(20, 25)
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 4)		0
+Player		(1, 6)
+AI		(4, 9)		15
+Player		(6, 11)
+AI		(12, 13)	15
+Player		(11, 16)
+AI		(14, 19)	15
+Player		(16, 21)
+AI		(9, 10)		13
+Player		(21, 22)
+AI		(19, 24)	15
+Player		(12, 17)
+AI		(8, 13)		0
+Player		(14, 15)
+AI		(13, 14)	32
+Player		(24, 25)
+AI		(22, 23)	45
+Player		(23, 24)
+AI		(18, 19)	75
+AI		(13, 18)	75
+AI		(17, 18)	62
+AI		(17, 22)	32
+AI		(16, 17)	2
+AI		(11, 12)	0
+AI		(3, 8)		0
+Player		(8, 9)
+Player		(9, 14)
+Player		(10, 15)
+Player		(19, 20)
+AI		(20, 25)	15
+AI		(15, 20)	0
+AI		(2, 7)		0
+Player		(6, 7)
+Player		(7, 8)
+Player		(7, 12)
+Player		(4, 5)
+AI		(5, 10)		15
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(2, 3)
+AI		(3, 4)		0
+Player		(4, 5)
+AI		(12, 13)	0
+Player		(5, 10)
+AI		(21, 22)	0
+Player		(23, 24)
+AI		(14, 19)	0
+Player		(24, 25)
+AI		(13, 14)	2
+Player		(22, 23)
+AI		(11, 12)	2
+Player		(16, 21)
+AI		(9, 10)		0
+Player		(11, 16)
+AI		(4, 9)		45
+AI		(9, 14)		2
+Player		(1, 6)
+AI		(6, 11)		15
+Player		(7, 8)
+AI		(19, 20)	45
+Player		(10, 15)
+AI		(14, 15)	2
+AI		(15, 20)	0
+AI		(12, 17)	0
+Player		(16, 17)
+Player		(17, 22)
+Player		(17, 18)
+Player		(13, 18)
+Player		(18, 19)
+Player		(19, 24)
+Player		(20, 25)
+Player		(6, 7)
+AI		(7, 12)		75
+AI		(8, 13)		60
+AI		(8, 9)		45
+AI		(3, 8)		30
+AI		(2, 7)		15
+
+AI Wins
+
+
+Identity	Line		MinMax Value
+
+Player		(1, 2)
+AI		(18, 23)	0
+Player		(24, 25)
+AI		(3, 4)		0
+Player		(23, 24)
+AI		(4, 9)		0
+Player		(22, 23)
+AI		(14, 19)	15
+Player		(21, 22)
+AI		(12, 13)	15
+Player		(16, 21)
+AI		(9, 10)		15
+Player		(11, 16)
+AI		(11, 12)	15
+Player		(6, 11)
+AI		(13, 14)	2
+Player		(2, 7)
+AI		(10, 15)	2
+Player		(2, 3)
+AI		(19, 20)	32
+Player		(8, 13)
+AI		(12, 17)	0
+Player		(4, 5)
+AI		(5, 10)		75
+AI		(16, 17)	75
+AI		(17, 22)	75
+AI		(17, 18)	75
+AI		(13, 18)	50
+AI		(18, 19)	20
+AI		(19, 24)	0
+AI		(20, 25)	0
+AI		(3, 8)		0
+Player		(8, 9)
+Player		(9, 14)
+Player		(14, 15)
+Player		(15, 20)
+Player		(7, 8)
+Player		(7, 12)
+Player		(6, 7)
+Player		(1, 6)
+
+It is a tie
+
+
